@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">NLP-MLKit</string>
+    <string name="label_identify_language">Identify Language</string>
+    <string name="label_translate_text">Translate Text</string>
+    <string name="label_smart_reply">Smart Reply</string>
+    <string name="identify_likely_languages">Identify Likely Languages</string>
+    <string name="show_all_possibilities">Show all possibilities</string>
+    <string name="enter_text_to_identify_language">Enter text to identify language</string>
+    <string name="download_gujarati_model">Download Gujarati Model</string>
+    <string name="delete_gujarati_model">Delete Gujarati Model</string>
+    <string name="translate_text">Translate Text</string>
+    <string name="identified_language_is">Identified Most Likely Language is, \n\n%s</string>
+    <string name="all_possibilities_are">All possible language and confidence are, \n\n%s</string>
+    <string name="cannot_identify_language">Can\'t identify language.</string>
+    <string name="error_message_identify">Enter language to identify</string>
+    <string name="enter_text_to_translate">Enter text to translate</string>
+    <string name="downloaded_models">Downloaded models</string>
+    <string name="model_deleted_message">GU Model deleted</string>
+    <string name="gu_model_download_success">GU Model downloaded successfully or model already available</string>
+    <string name="model_not_downloaded">Model download error</string>
+    <string name="hint_input_text">Enter message text</string>
+    <string name="send_message_button_text">Send</string>
+    <string name="switch_user_button">SWITCH</string>
+
+    <string name="chatting_as_red">Chatting as Red User</string>
+    <string name="chatting_as_blue">Chatting as Blue User</string>
+</resources>

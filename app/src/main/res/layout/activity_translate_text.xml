@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".TranslateTextActivity">
+
+    <androidx.appcompat.widget.AppCompatEditText
+        android:id="@+id/et_translate_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/identical_margin"
+        android:hint="@string/enter_text_to_translate"
+        android:inputType="textMultiLine"
+        android:lines="3"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/txt_translate_text_result"
+        style="@style/ResultTextTheme"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/et_translate_text"
+        tools:text="Result Text" />
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/text_result_title"
+        style="@style/ResultTextTheme"
+        android:text="@string/downloaded_models"
+        app:layout_constraintBottom_toTopOf="@id/text_available_models"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/text_available_models"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/identical_margin"
+        android:textColor="@android:color/black"
+        android:textSize="18sp"
+        app:layout_constraintBottom_toTopOf="@id/bt_translate"
+        tools:text="Available model List" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/bt_translate"
+        style="@style/ButtonTheme"
+        android:text="@string/translate_text"
+        app:layout_constraintBottom_toTopOf="@id/bt_download_gu_model" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/bt_download_gu_model"
+        style="@style/ButtonTheme"
+        android:text="@string/download_gujarati_model"
+        app:layout_constraintBottom_toTopOf="@id/bt_delete_gu_model" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/bt_delete_gu_model"
+        style="@style/ButtonTheme"
+        android:text="@string/delete_gujarati_model"
+        app:layout_constraintBottom_toBottomOf="parent" />
+</androidx.constraintlayout.widget.ConstraintLayout>
