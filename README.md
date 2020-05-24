@@ -13,9 +13,7 @@
 
 ### 2. Identify Languages
 
-<img src="misc/identify_likely_lang.png" width="25%"/>
-
-<img src="misc/show_possibilities.png" width="25%"/>
+<img src="misc/identify_likely_lang.png" width="25%"/>  <img src="misc/show_possibilities.png" width="25%"/>
 
 ### 3. Translate Text
 
