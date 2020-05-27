@@ -1,5 +1,7 @@
 # NLP in Firebase ML-Kit
 
+Get the [NLP-MLKit.apk](misc/NLP-MLKit.apk)
+
 ## How to use this project?
 
 1. Clone this repository
@@ -9,7 +11,7 @@
 
 ### 1. Smart Reply
 
-`COMING SOON`
+<img src="misc/smart_reply.png" width="25%"/>  <img src="misc/show_possibilities.png" width="25%"/>
 
 ### 2. Identify Languages
 

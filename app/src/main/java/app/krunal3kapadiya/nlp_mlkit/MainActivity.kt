@@ -1,8 +1,9 @@
 package app.krunal3kapadiya.nlp_mlkit
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.transition.TransitionSet
+import android.view.Menu
+import android.view.MenuItem
+import androidx.appcompat.app.AppCompatActivity
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {
@@ -19,5 +20,19 @@ class MainActivity : AppCompatActivity() {
         bt_go_to_translate_text.setOnClickListener {
             TranslateTextActivity.launch(this)
         }
+    }
+
+    override fun onCreateOptionsMenu(menu: Menu?): Boolean {
+        menuInflater.inflate(R.menu.main_menu, menu)
+        return true
+    }
+
+    override fun onOptionsItemSelected(item: MenuItem): Boolean {
+        when (item.itemId) {
+            R.id.action_about -> {
+                AboutUsActivity.launch(this@MainActivity)
+            }
+        }
+        return true
     }
 }
