@@ -37,6 +37,8 @@ dependencies {
     implementation 'androidx.core:core-ktx:1.2.0'
     implementation 'androidx.constraintlayout:constraintlayout:1.1.3'
 
+    implementation 'com.google.android.material:material:1.1.0'
+
     implementation 'com.google.firebase:firebase-ml-natural-language:22.0.0'
     // identify language
     implementation 'com.google.firebase:firebase-ml-natural-language-language-id-model:20.0.7'
@@ -44,6 +46,8 @@ dependencies {
     implementation 'com.google.firebase:firebase-ml-natural-language-translate-model:20.0.8'
     // smart reply
     implementation 'com.google.firebase:firebase-ml-natural-language-smart-reply-model:20.0.7'
+
+    implementation "androidx.recyclerview:recyclerview:1.1.0"
 
     implementation 'de.hdodenhof:circleimageview:3.1.0'
 
