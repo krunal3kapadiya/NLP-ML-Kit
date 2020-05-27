@@ -11,7 +11,7 @@ Get the [NLP-MLKit.apk](misc/NLP-MLKit.apk)
 
 ### 1. Smart Reply
 
-<img src="misc/smart_reply.png" width="25%"/>  <img src="misc/show_possibilities.png" width="25%"/>
+<img src="misc/smart_reply.png" width="25%"/>
 
 ### 2. Identify Languages
 
