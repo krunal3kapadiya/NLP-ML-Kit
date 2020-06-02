@@ -1,5 +1,12 @@
 # NLP in Firebase ML-Kit
 
+![License](https://img.shields.io/github/license/krunal3kapadiya/NLP-ML-Kit.svg)
+![RepoSize](https://img.shields.io/github/repo-size/krunal3kapadiya/NLP-ML-Kit)
+![Languages](https://img.shields.io/github/languages/count/krunal3kapadiya/NLP-ML-Kit)
+[![Twitter](https://img.shields.io/badge/Twitter-%40krunal3kapadiya-blue.svg)](https://twitter.com/krunal3kapadiya)
+[![Medium](https://img.shields.io/badge/Medium-%40krunal3kapadiya-blue.svg)](https://medium.com/@krunal3kapadiya)
+[![Facebook](https://img.shields.io/badge/Facebook-Krunal3kapadiya-blue.svg)](https://www.facebook.com/krunal3kapadiya)
+
 Get the [NLP-MLKit.apk](misc/NLP-MLKit.apk)
 
 ## How to use this project?
@@ -22,16 +29,6 @@ Get the [NLP-MLKit.apk](misc/NLP-MLKit.apk)
 <img src="misc/gujarati_text.png" width="25%"/>
 
 Want to read article on Medium, here is the [link](https://medium.com/@krunal3kapadiya/facts-you-should-know-before-starting-ml-kit-8f31dabeb0f)
-
-## Contact 🤔
-
-
-[![Twitter](https://img.shields.io/badge/Twitter-%40krunal3kapadiya-blue.svg)](https://twitter.com/krunal3kapadiya)
-
-[![Medium](https://img.shields.io/badge/Medium-%40krunal3kapadiya-brightgreen.svg)](https://medium.com/@krunal3kapadiya)
-
-[![Facebook](https://img.shields.io/badge/Facebook-Krunal3kapadiya-blue.svg)](https://www.facebook.com/krunal3kapadiya)
-
 
 #### [BUY ME A COFFEE ☕](https://www.paypal.me/krunal3kapadiya)
 
