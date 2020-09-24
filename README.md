@@ -14,6 +14,10 @@ Get the [NLP-MLKit.apk](misc/NLP-MLKit.apk)
 3. Download `google-services.json` file into `app` folder
 4. Run the project.
 
+> Read Article [here](https://krunal3kapadiya.app/post/nlp-in-ml-kit/)
+
+## Screenshots
+
 ### 1. Smart Reply
 
 <img src="misc/smart_reply.png" width="25%"/>
