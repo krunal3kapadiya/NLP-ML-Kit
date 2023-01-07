@@ -3,7 +3,7 @@
 ![License](https://img.shields.io/github/license/krunal3kapadiya/NLP-ML-Kit.svg)
 ![RepoSize](https://img.shields.io/github/repo-size/krunal3kapadiya/NLP-ML-Kit)
 ![Languages](https://img.shields.io/github/languages/count/krunal3kapadiya/NLP-ML-Kit)
-[![Twitter](https://img.shields.io/badge/Twitter-%40krunal3kapadiya-blue.svg)](https://twitter.com/krunal3kapadiya)
+[![Twitter](https://img.shields.io/badge/Twitter-%40krunal3kapadiya-blue.svg)](https://twitter.com/krunal3kapadia)
 
 Get the [NLP-MLKit.apk](misc/NLP-MLKit.apk)
 
